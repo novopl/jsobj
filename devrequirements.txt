@@ -1,0 +1,16 @@
+coverage==4.2
+Fabric3==1.12.post1
+fabutils>=0.0.20
+factory-boy==2.8.1
+mock==2.0.0
+pep8==1.7.0
+pylint==1.6.4
+pytest==3.0.4
+pytest-cov==2.4.0
+pytest-sugar==0.7.1
+pytest-xdist==1.15.0
+Sphinx==1.5.1
+sphinx_rtd_theme>=0.1.9
+sphinx-refdoc==0.0.14
+tox==2.5.0
+wheel==0.29.0
